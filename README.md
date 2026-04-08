@@ -38,6 +38,10 @@ Rafiq:    → Opens YouTube
           → Types the search query automatically
           → "تم البحث عن موسيقى هادية في يوتيوب"
 ```
+---
+## Video
+
+https://github.com/user-attachments/assets/8caec55a-1246-4e41-be28-44bbaae77d7c
 
 ---
 
