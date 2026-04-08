@@ -71,7 +71,7 @@ Rafiq:    → Opens YouTube
 ### 2 — Install
 
 ```bash
-git clone https://github.com/eslamzoghla/rafiq.git
+git clone https://github.com/eslamzoghla/Rafiq-a-voice-controlled-AI-desktop-assistant-.git
 cd rafiq
 pip install -r requirements.txt
 ```
